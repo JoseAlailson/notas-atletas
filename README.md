@@ -36,7 +36,7 @@ Você precisará ter o [Node.js](https://nodejs.org/) instalado no seu computado
 3. Execute o arquivo JavaScript usando o Node.js:
    ```bash
    node notas-atletas.js
-
+   ```
    
 👨‍💻 Autor:
 Jose Alailson Sousa Pinho
